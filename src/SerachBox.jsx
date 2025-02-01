@@ -7,7 +7,7 @@ import { useState } from "react";
 
 const SerachBox = () => {
   const [value, setValue] = useState("");
- 
+  
 
   const API_URL = "https://api.openweathermap.org/data/2.5/weather";
   const API_KEY = "b010b23c8a55d6b005c9dcd8f546efec";
