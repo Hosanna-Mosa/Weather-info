@@ -5,6 +5,11 @@
   text-align: center;
   background-color: #fff;
 }
+h3 {
+  color: black !important;
+  font-size: 24px;
+  display: block;
+}
 
 .logo {
   height: 6em;
@@ -40,4 +45,11 @@
 
 .read-the-docs {
   color: #888;
+}
+
+
+#loader{
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
 }
